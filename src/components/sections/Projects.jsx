@@ -29,15 +29,6 @@ export const Projects = () => {
                                     </span>
                                 ))}
                             </div>
-
-                            <div className="flex justify-between items-center">
-                                <a
-                                    href="#"
-                                    className="text-blue-400 hover:text-blue-300 transition-colors my-4">
-                                    {" "}
-                                    View Project →{" "}
-                                </a>
-                            </div>
                         </div>
 
                         <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30
@@ -58,14 +49,6 @@ export const Projects = () => {
                                 ))}
                             </div>
 
-                            <div className="flex justify-between items-center">
-                                <a
-                                    href="#"
-                                    className="text-blue-400 hover:text-blue-300 transition-colors my-4">
-                                    {" "}
-                                    View Project →{" "}
-                                </a>
-                            </div>
                         </div>
 
                         <div
@@ -94,13 +77,6 @@ export const Projects = () => {
                                     )
                                 )}
                             </div>
-                            <div className="flex justify-between items-center">
-                                <a
-                                    href="#"
-                                    className="text-blue-400 hover:text-blue-300 transition-colors my-4">
-                                    View Project →
-                                </a>
-                            </div>
                         </div>
 
                         <div
@@ -127,13 +103,6 @@ export const Projects = () => {
                                         {tech}
                                     </span>
                                 ))}
-                            </div>
-                            <div className="flex justify-between items-center ">
-                                <a
-                                    href="#"
-                                    className="text-blue-400 hover:text-blue-300 transition-colors my-4">
-                                    View Project →
-                                </a>
                             </div>
                         </div>
                     </div>
